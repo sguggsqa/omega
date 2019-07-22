@@ -17,7 +17,9 @@ public class Customer extends Order {
 	public static void main(String[] args)
 	{
 		Order r=new Order(10,12,231);
-		System.out.println();
+		System.out.println(r);
+		String s1="hello",s2="word";
+		s1=s1+s2;
 		
 		
 	}
