@@ -1,0 +1,4 @@
+
+public int getVald(int x)
+x=x+1;
+system.out.println(" hello");
